@@ -22,3 +22,9 @@ float: right;
 width: 550px;
 }
 
+
+.mb-button.mb-text-style-default {
+    background-color: rgb(51, 122, 183);
+}
+
+
