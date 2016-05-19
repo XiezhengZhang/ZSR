@@ -13,6 +13,9 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
   		<link rel="pingback" href="<?php bloginfo('pingback_url'); ?>">
 
+
+<p align=center style="margin-top: 15px; margin-right: 75px;"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/BROheader-1-768x208.png" width="768" height="208" title="Logo" margin-right: 10px; /></p>
+
 		<!-- wordpress head functions -->
 		<?php wp_head(); ?>
 		<!-- end of wordpress head -->
