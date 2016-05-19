@@ -11,3 +11,8 @@ Updated: 2016-05-18 10:48:14
 
 */
 @import url("../wordpress-bootstrap-master/library/dist/css/styles.f6413c85.min.css");
+
+
+.col-sm-4 {
+    background-color: rgba(245,245,245,0.4);
+}
