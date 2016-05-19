@@ -1,13 +1,13 @@
 /*
-Theme Name: wp-bootstrap
+Theme Name: wp-bootstrap Child
 Theme URI: http://320press.com/wpbs
-Description: A simple responsive theme based on the Bootstrap framework. Includes multiple page templates, two different sidebars and a theme options panel.
-Version: 3.3.1
+Template: wordpress-bootstrap-master
 Author: Chris Barnes
 Author URI: http://cbarn.es
-Tags: black, white, one-column, two-columns, flexible-width, custom-background, custom-colors, custom-menu, full-width-template, theme-options
-License: GNU General Public License v2.0 & Apache License 2.0
-License URI: http://www.gnu.org/licenses/gpl-2.0.html http://www.apache.org/licenses/LICENSE-2.0
-*/
+Description: A simple responsive theme based on the Bootstrap framework. Includes multiple page templates, two different sidebars and a theme options panel.
+Tags: black,white,one-column,two-columns,flexible-width,custom-background,custom-colors,custom-menu,full-width-template,theme-options
+Version: 3.3.1.1463568494
+Updated: 2016-05-18 10:48:14
 
-/* HEADS UP: Everything that you will normally find here can be found in the library/less/wp.less */
+*/
+@import url("../wordpress-bootstrap-master/library/dist/css/styles.f6413c85.min.css");
