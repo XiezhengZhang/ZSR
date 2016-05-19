@@ -16,3 +16,9 @@ Updated: 2016-05-18 10:48:14
 .col-sm-4 {
     background-color: rgba(245,245,245,0.4);
 }
+
+#header  .widget-area {
+float: right;
+width: 550px;
+}
+
